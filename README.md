@@ -53,24 +53,37 @@ In the example below, > denotes input, =>  denotes program output.
 2. L  2   3   A
 3. S
 
-
 =>
+
 OOOOO
+
 OOOOO
+
 OAOOO
+
 OOOOO
+
 OOOOO
+
 OOOOO
+
 
 1. F  3   3   J
 2. V  2   3   4   W
 3. H  3   4   2   Z
 4. S
+
 => 
+
 JJJJJ
+
 JJZZJ
+
 JWJJJ
+
 JWJJJ
+
 JJJJJ
+
 JJJJJ
 
