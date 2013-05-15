@@ -49,17 +49,28 @@ Example
 In the example below, > denotes input, =>  denotes program output.
 
 
->  I 5   6
->  L  2   3   A
->  S
+1. I 5   6
+2. L  2   3   A
+3. S
 
 
-=> OOOOO OOOOO OAOOO OOOOO OOOOO OOOOO
+=>
+OOOOO
+OOOOO
+OAOOO
+OOOOO
+OOOOO
+OOOOO
 
->  F  3   3   J
->  V  2   3   4   W
->  H  3   4   2   Z
->  S
+1. F  3   3   J
+2. V  2   3   4   W
+3. H  3   4   2   Z
+4. S
 => 
-JJJJJ JJZZJ JWJJJ JWJJJ JJJJJ JJJJJ
+JJJJJ
+JJZZJ
+JWJJJ
+JWJJJ
+JJJJJ
+JJJJJ
 
